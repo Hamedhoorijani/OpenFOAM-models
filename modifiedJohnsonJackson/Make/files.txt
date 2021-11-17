@@ -1,0 +1,3 @@
+modifiedJohnsonJacksonFrictionalStress.C
+
+EXE = $(FOAM_USER_LIBBIN)/libmodifiedJohnsonJacksonFrictionalStressModel.so
