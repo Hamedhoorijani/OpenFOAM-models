@@ -1,0 +1,6 @@
+ErgunEMMS/ErgunEMMS.C
+WenYuEMMS/WenYuEMMS.C
+EMMS/EMMS.C
+
+
+EXE = $(FOAM_USER_LIBBIN)/libEMMSDragModel.so
