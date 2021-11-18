@@ -1,5 +1,6 @@
 modifiedJohnsonJackson with a correlation of sphericity coefficient (phis) embeded in equations.
 
+
 How to compile
 1. place the folder in the directory "$WM_PROJECT_USER_DIR/applications/libs/ "
 2. compile the model as a library 
